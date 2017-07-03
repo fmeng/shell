@@ -7,7 +7,7 @@
 #服务器配置项
 CONFIGS=(
     "host               port        user   password            描述"
-    "47.94.138.22       22          root   Fmeng123**##        fmeng阿里云"
+    "47.94.138.22       22          root   password        fmeng阿里云"
     "192.168.31.249     22          root   fmengpwdpwd         公司阿里云"
 )
 # 程序入口
